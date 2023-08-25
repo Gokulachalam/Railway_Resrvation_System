@@ -28,5 +28,8 @@ A railway reservation system is a software application that helps passengers boo
 
 11.Deploy the application on a server for users to access it.
 
+#model working
+![rail](https://github.com/Gokulachalam/Railway_Resrvation_System/assets/89055461/5a27460d-5721-434f-8a39-8a192dc82099)
+
 
 
